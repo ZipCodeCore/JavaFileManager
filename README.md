@@ -22,6 +22,17 @@ Each class a different reason for being.
 There is a simple file hierarchy for manual testing in the _test_ folder.
 You can use the _test_ folder for doing simple file manipulations.
 
+## Your task...
+
+You should create a page of documentation in the [Help for FileManager](FileManager.md) describing how you use
+each of the commands the program provides. 
+You can use [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) to learnmore about what
+mardown is and how you use it to write markdown files.
+Learn more about it at [Wikipedia : Markdown](https://en.wikipedia.org/wiki/Markdown).
+
+Write a short summary of what each command does and how it is used.
+Edit the [Help for FileManager](FileManager.md) file.
+
 ## Things to consider
 
 Why are the manipulation commands, the things that affect files and folders, in a different class than
@@ -30,7 +41,7 @@ the _file manager_ itself?
 Why is all the input and output factored out into a separate class?
 
 Why is Copy/Move in the same method? What about the two operations are so much the same?
-How would you separate them? Would it make it more understandable or less to spearate them?
+How would you separate them? Would it make it more understandable or less to separate them?
 
 What would you have to do to:
 
