@@ -26,12 +26,12 @@ You can use the _test_ folder for doing simple file manipulations.
 
 You should create a page of documentation in the [Help for FileManager](FileManager.md) describing how you use
 each of the commands the program provides. 
-You can use [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) to learnmore about what
-mardown is and how you use it to write markdown files.
-Learn more about it at [Wikipedia : Markdown](https://en.wikipedia.org/wiki/Markdown).
+You can use [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) to learn more about what
+markdown is and how you use it to write markdown files.
+There is also info at [Wikipedia : Markdown](https://en.wikipedia.org/wiki/Markdown).
 
 Write a short summary of what each command does and how it is used.
-Edit the [Help for FileManager](FileManager.md) file.
+Edit the [Help for FileManager](FileManager.md) file with your explanatory text.
 
 ## Things to consider
 
