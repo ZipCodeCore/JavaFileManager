@@ -17,7 +17,7 @@ Available commands:
 - `copy`, `move`, `delete` files
 - `quit` the file manager shell
 
-There are three classes in this app: *FileManager*, *FileOperator* and *Console*.
+There are three classes in this app: *FileManager*, *FileOperator* and *Console* in `src/main/java`.
 Each class a different reason for being.
 There is a simple file hierarchy for manual testing in the _test_ folder.
 You can use the _test_ folder for doing simple file manipulations.
