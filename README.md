@@ -49,3 +49,11 @@ Does the code, as is, have any obvious bugs?
 How would find out?
 
 Why is the Console passed as a parameter to the two constructors?
+
+## Summary
+
+This code is meant for you to read and consider how you might do some of these things.
+You can, of course, attempt any of the suggested changes that you'd like.
+You need not do so, though, yet, it might be a good activity to do after you've spent some
+time working on other labs, so that your changes are nice and clean and concise.
+
