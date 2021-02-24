@@ -6,6 +6,10 @@ You can fork this repo, and clone it down onto your computer.
 The `main()` function is in `class FileManager`.
 You should be able to run that function. 
 
+**This lab is meant to be an activity of reading the code and documenting what you found out.
+It is not necessarily a coding project. You do not need to write code to finish the lab.
+You only need to document what you found here.**
+
 ## What it does
 
 This is a very simple file management _shell_, it shows how to manipulate files using java standard library calls.
