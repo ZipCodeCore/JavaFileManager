@@ -6,7 +6,7 @@ You can fork this repo, and clone it down onto your computer.
 The `main()` function is in `class FileManager`.
 You should be able to run that function. 
 
-## What is does
+## What it does
 
 This is a very simple file management _shell_, it shows how to manipulate files using java standard library calls.
 Available commands:
@@ -22,13 +22,15 @@ Each class a different reason for being.
 There is a simple file hierarchy for manual testing in the _test_ folder.
 You can use the _test_ folder for doing simple file manipulations.
 
+## Things to consider
 
 Why are the manipulation commands, the things that affect files and folders, in a different class than
 the _file manager_ itself?
 
 Why is all the input and output factored out into a separate class?
 
-Why is Copy/Move in the same method?
+Why is Copy/Move in the same method? What about the two operations are so much the same?
+How would you separate them? Would it make it more understandable or less to spearate them?
 
 What would you have to do to:
 
